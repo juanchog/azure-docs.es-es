@@ -184,7 +184,7 @@ En el dominio `contoso.com` del ejemplo, cree los registros D y TXT según la ta
 
 | Tipo de registro | Host | Valor |
 | - | - | - |
-| Una  | `@` | Dirección IP de [Copiar la dirección IP de la aplicación](#info) |
+| A | `@` | Dirección IP de [Copiar la dirección IP de la aplicación](#info) |
 | TXT | `@` | `<app_name>.azurewebsites.net` |
 
 Cuando se agregan los registros, la página de registros DNS es como la del ejemplo siguiente:
